@@ -27,11 +27,11 @@ https://github.com/Srajan-Sahyadri-ECE/samsung-riscv/tree/main/Task3
 </summary>
 https://github.com/Srajan-Sahyadri-ECE/samsung-riscv/tree/main/Task4
 </details>
-<summary>TASK5:Project pin diagram
-</summary>
+ <details>
+<summary>TASK5:Project pin diagram</summary>
 https://github.com/Srajan-Sahyadri-ECE/samsung-riscv/tree/main/Task5
 </details>
-<summary>TASK6:Riscv project
-</summary>
+ <details>
+<summary>TASK6:Riscv project</summary>
 https://github.com/Srajan-Sahyadri-ECE/samsung-riscv/tree/main/Task6
-</details>
+ </details>
