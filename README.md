@@ -11,27 +11,27 @@ Email ID: srajan.ec22@sahyadri.edu.in
 
 -
 <details>
-<summary>TASK1:Development of C Based LAB</summary>
+<summary>TASK1: Development of C Based LAB</summary>
  https://github.com/Srajan-Sahyadri-ECE/samsung-riscv/tree/main/Task1
 </details>
  <details>
-<summary>TASK2:Simulation with Spike</summary>
+<summary>TASK2: Simulation with Spike</summary>
 https://github.com/Srajan-Sahyadri-ECE/samsung-riscv/tree/main/Task2
  </details>
  <details>
-<summary>TASK3:32 bit segment of objdump</summary>
+<summary>TASK3: 32 bit segment of objdump</summary>
 https://github.com/Srajan-Sahyadri-ECE/samsung-riscv/tree/main/Task3
  </details>
 <details>
-<summary>TASK4:Functional simulation of given RISC-V core verilog netlist and testbench
+<summary>TASK4: Functional simulation of given RISC-V core verilog netlist and testbench
 </summary>
 https://github.com/Srajan-Sahyadri-ECE/samsung-riscv/tree/main/Task4
 </details>
  <details>
-<summary>TASK5:Project pin diagram</summary>
+<summary>TASK5: Blink led and Project pin diagram</summary>
 https://github.com/Srajan-Sahyadri-ECE/samsung-riscv/tree/main/Task5
 </details>
  <details>
-<summary>TASK6:Riscv project</summary>
+<summary>TASK6: Riscv project</summary>
 https://github.com/Srajan-Sahyadri-ECE/samsung-riscv/tree/main/Task6
  </details>
