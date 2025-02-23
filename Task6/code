@@ -1,1 +1,17 @@
+void setup() {
+  pinMode(PD0, INPUT); // Set moisture sensor pin as input
+  pinMode(PD6, OUTPUT);     // Set LED pin as output
+  digitalWrite(PD6, LOW);   // Ensure LED is off initially
+}
 
+void loop() {
+  int sensorValue = digitalRead(PD0); // Read the sensor output
+
+  if (sensorValue == LOW) {
+    // Object detected
+    digitalWrite(PD6, HIGH); // Turn on the LED
+  } else {
+    // No object detected
+    digitalWrite(PD6, LOW);  // Turn off the LED
+  }
+}
